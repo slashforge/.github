@@ -1,2 +1,2 @@
-# .github
-slashforge/.github is a ✨special ✨ repository that you can use to add README.md to your public organization profile, visible to anyone. 
+![SlashForge](assets/slashforge_banner.png#gh-light-mode-only)
+![SlashForge](assets/slashforge_banner_dark.png#gh-dark-mode-only)
